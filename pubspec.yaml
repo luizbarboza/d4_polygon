@@ -1,0 +1,11 @@
+name: d4_polygon
+version: 1.0.0
+description: Geometric operations for two-dimensional polygons.
+repository: https://github.com/luizbarboza/d4_polygon
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.1.1
+  test: ^1.22.0
